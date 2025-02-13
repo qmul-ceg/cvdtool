@@ -1,2 +1,2 @@
-# cvd_tool
+# cvdtool
 CEG CVD Prevention Tool NGT
